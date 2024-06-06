@@ -10,6 +10,8 @@ Datatypes:
 7.String:declaration of string
 8.Number:int,float and complex.
 Also difference between list and tuple and difference between dictionary and set.
+
+
 Task2:
 1.if stmt:use of if statement to check a single condition in various examples i.e to check whethere the number is positive,negative,odd,even  within a specific range etc..
 2.if else stmt: used to check two conditions in example like number is odd or even,pos or neg etc.
