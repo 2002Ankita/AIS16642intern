@@ -29,3 +29,15 @@ Use case: It is useful when you want to exist a loop as soon as certain conditio
 Task4:
  In task 4 we studied all about Numpy library.Starting with a basic introduction and ends up with creating and plotting random data sets,and working with NumPy functions.#NumPy is open sourse project that enables numerical computing with python. numPy will always be 100% open source software and free for all use. We studied 1)creating arrays ,2)array indexing 3)slicing 4)NumPy datatypes 5) copy or view 6)array shape or reshape 7) array iterating,8)join,split,searh,sort and filter.Here 1D array,3D array and multidimensional array are studied.
  NumPy has some extra data types,and refer to data types with one character like i for integers,u for unsigned integers etc.#Then we learn how to generate Random Number.Numpy offers the random module to work with random numbers.#Data disribution is a list of all possible values,and how often each value occurs.Such lists are important when working with statistics and data scince.The random module offer methods that return randomly generated data distributions.Then we see that generation of random numbers from particular distribution and visuallisation of that distribution,like normal distribution,bimomial,poisson,uniform,logistic,multinomial,exponentialchi-square etc To plot the graph of distribution#from NumPy import random# import matplotlib.pyplot as plt # impor seaborn as sns .Then we use ufuncs stands for "Universal Functions" and they are NumPy functions that operate on the ndarray object.We studied ufunctions like simple arithmetic,roundin decimals,logs,summations,products,differences,finding lcm,gcd,trignometric functions,hyperbolic functions and set operations.
+
+Task5:
+In task 5 we studied pandas library in python.
+#Pandas Series:A Pandas Series is like a column in a table.
+It is a one-dimensional array holding data of any type.We can also use a key/value object, like a dictionary, when creating a Series.
+#DataFrames
+Data sets in Pandas are usually multi-dimensional tables, called DataFrames.
+Series is like a column, a DataFrame is the whole table.We also studied how to read csv and xlsx file in python.We create DataFrame using matrix and dictionary.
+We also studied DataFrame operations like value counts,apply unique,nunique,describe,head,tail and info.
+We studied how to select perticular row ,column in python,We also studied conditional selection, addding ,deleting and updating a perticular column,indexing and remove indexing.How to use operations like addition,substraction,multiplication,division between two columns.
+We studied checking of missing values in data,studied missing values drop by row and by columns also studied filling of missing values by using mean and median.
+ 
