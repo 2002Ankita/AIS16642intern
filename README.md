@@ -40,4 +40,9 @@ Series is like a column, a DataFrame is the whole table.We also studied how to r
 We also studied DataFrame operations like value counts,apply unique,nunique,describe,head,tail and info.
 We studied how to select perticular row ,column in python,We also studied conditional selection, addding ,deleting and updating a perticular column,indexing and remove indexing.How to use operations like addition,substraction,multiplication,division between two columns.
 We studied checking of missing values in data,studied missing values drop by row and by columns also studied filling of missing values by using mean and median.
+
+ Task6
+ In task 6 we studied that matplotlib and seaborn library.
+ Matplotlib is a graph plotting library in python that serves as visualization utility.
+ #pyplot
  
