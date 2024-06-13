@@ -45,4 +45,17 @@ We studied checking of missing values in data,studied missing values drop by row
  In task 6 we studied that matplotlib and seaborn library.
  Matplotlib is a graph plotting library in python that serves as visualization utility.
  #pyplot
+ Pyplot
+Most of the Matplotlib utilities lies under the pyplot submodule, and are usually imported under the plt alias:
+import matplotlib.pyplot as plt
+#ploting x and y plots
+The plot() function is used to draw points (markers) in a diagram.
+In matplotlib we studied matplotlib plotting with markers,lines,labels,grid,subplot,scatter plot,bar,histogram and pie charts.
+#seaborn library
+#Seaborn is a Python data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+#It provides a high-level interface for drawing attractive and informative statistical graphics.
+#Seaborn is built on top of Matplotlib and closely integrated with Pandas data structures, making it particularly convenient for working with DataFrame objects.
+#Once installed, you can import it in your Python script or Jupyter Notebook:
+import seaborn as sns
+In seaborn library we see different types of plotting of graphs such as Scatter Plot,Line plot,bar plot,box plot, Violin plot,Heatmap,pairplot,residual plot.
  
