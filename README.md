@@ -89,6 +89,7 @@ Then we cleaned data by handling missing values and outliers to build the variou
 Then we perform grid search cv on 10 models to find the best parameter once we find the Best parameters then again we build the 10 models with that best parameter, and find the RMSE and R square values after the grid search cv .
 Also we find feature importance from decision tree model and find the best parameter i.e Hour , tempreture,solar radiation,humidity,seasons and holiday and fit the all 10 models with these 6 variables.and find the RMSE and R square of all models.
 Then plot the bar graphs and joint bar plots of rmse values and r square values. Also compare the rmse and R square values of before and after grid search cv .
+
 CONCLUSION:
 1. Seasonal Trends: Bike-sharing demand typically varies with the season, with higher usage in warmer months and lower usage in colder months.
 
